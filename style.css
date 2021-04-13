@@ -1,0 +1,57 @@
+.header{
+    background-color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.firstrow{
+    display: flex;
+    justify-content: space-evenly;
+    } 
+    .camel :hover{border: solid #f5f5f5 5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffe4cf;
+    transform: scale(1.2);
+    }
+    .chameleon :hover{border: solid #f5f5f5 5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffe4cf;
+    transform: scale(1.2);
+    }
+    .pigeon :hover{border: solid #f5f5f5 5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffe4cf;
+    transform: scale(1.2);
+    }
+    
+    .secondrow{
+        display: flex;
+        justify-content: space-evenly;
+        } 
+    .bear :hover{border: solid #f5f5f5 5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffe4cf;
+    transform: scale(1.2);
+    }
+    .panda :hover{border:solid #f5f5f5 5px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: #ffe4cf;
+    transform: scale(1.2);
+    }    
+    
+
+body{
+    background-color: #00ffff;
+}
